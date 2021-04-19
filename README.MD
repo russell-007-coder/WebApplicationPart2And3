@@ -1,5 +1,5 @@
 # Project Description 
-This is a homework assignment to understand how to get pycharm setup with Docker, Flask, MySQL
+This project is a homework assignment to teach how to get pycharm setup with Docker, Flask, MySQL and Postman
 
 # Postman Screenshot
 ![postman request output](screenshots/postman.png)
